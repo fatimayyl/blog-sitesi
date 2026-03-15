@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|c:\\users\\yayli\\desktop\\sub\u00FC\\3.d\u00F6nem\\proje\\kurumsalwebprojesi\\kurumsalwebprojesi\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|solutionrelative:kurumsalwebprojesi\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\kurumsalwebprojesi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|solutionrelative:kurumsalwebprojesi\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\kurumsalwebprojesi\\views\\home\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|solutionrelative:kurumsalwebprojesi\\views\\home\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\kurumsalwebprojesi\\views\\home\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|solutionrelative:kurumsalwebprojesi\\views\\home\\sliderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\kurumsalwebprojesi\\views\\kimlik\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|solutionrelative:kurumsalwebprojesi\\views\\kimlik\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\kurumsalwebprojesi\\views\\shared\\_adminlayout .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C35F3D9-3871-4AE8-8C11-3DEB5D121134}|KurumsalWebProjesi\\KurumsalWebProjesi.csproj|solutionrelative:kurumsalwebprojesi\\views\\shared\\_adminlayout .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "KurumsalWebProjesi\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "KurumsalWebProjesi\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-05-28T13:47:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Home\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "KurumsalWebProjesi\\Views\\Home\\FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Home\\FooterPartial.cshtml",
+              "RelativeToolTip": "KurumsalWebProjesi\\Views\\Home\\FooterPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-05-28T13:47:48.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout .cshtml",
+              "DocumentMoniker": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Shared\\_AdminLayout .cshtml",
+              "RelativeDocumentMoniker": "KurumsalWebProjesi\\Views\\Shared\\_AdminLayout .cshtml",
+              "ToolTip": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Shared\\_AdminLayout .cshtml",
+              "RelativeToolTip": "KurumsalWebProjesi\\Views\\Shared\\_AdminLayout .cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-05-28T13:47:48.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Kimlik\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KurumsalWebProjesi\\Views\\Kimlik\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Kimlik\\Edit.cshtml",
+              "RelativeToolTip": "KurumsalWebProjesi\\Views\\Kimlik\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-05-28T13:47:48.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "KurumsalWebProjesi\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "KurumsalWebProjesi\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T13:47:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Home\\SliderPartial.cshtml",
+              "RelativeDocumentMoniker": "KurumsalWebProjesi\\Views\\Home\\SliderPartial.cshtml",
+              "ToolTip": "C:\\Users\\yayli\\Desktop\\SUB\u00DC\\3.D\u00D6NEM\\proje\\KurumsalWebProjesi\\KurumsalWebProjesi\\Views\\Home\\SliderPartial.cshtml",
+              "RelativeToolTip": "KurumsalWebProjesi\\Views\\Home\\SliderPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-05-28T13:47:48.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

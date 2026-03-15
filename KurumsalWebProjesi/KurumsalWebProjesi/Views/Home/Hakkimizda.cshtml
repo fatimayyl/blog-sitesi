@@ -1,0 +1,20 @@
+﻿@model KurumsalWebProjesi.Models.Model.Hakkimizda
+
+@{
+    ViewBag.Title = "Hakkımızda";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-12">
+        <h4>MyBlog Hakkında</h4>
+        <img src="~/Content/SiteLayout/img/dunya4.jpeg" alt="" width="600" height="400" class="align-center img-box img-responsive" />
+        <br />
+        <br />
+        <p>
+            @Html.Raw(Model.Aciklama)
+        </p>
+    </div>
+</div>
+
+
